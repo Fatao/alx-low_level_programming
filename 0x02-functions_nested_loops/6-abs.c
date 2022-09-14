@@ -1,20 +1,11 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
- * print_last_digit - prints the last digits of any number
- * @a: the int value to be acted upon
- * author: Abdul Fatao Abdulrahman 
- * Return: returns the last digit to calling function
-*/
-int print_last_digit(int a)
+ * _abs - a function that computes the absolute value of an integer
+ * @ab: integer input
+ * Return: absolute value of ab
+ */
+int _abs(int ab)
 {
-	if (a >= 0 && a <= 9)
-		return (a);
-
-	else
-	{
-		a = _abs(a % 10);
-		return (a);
-	}
+	return (ab * ((ab > 0) - (ab < 0)));
 }
