@@ -1,0 +1,68 @@
+!<arch> 
+ /               0           0     0     0       194       ` 
+ .BV$j+~2�9�@�G�N�U�] 
+ dk2rFyZ�n����mainmainmainmainmainmainmainmainmainmainmainmainmainmainmainmainmainmainmainmainmain0-isupper.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (0-isupper.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t0-memset.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'0-memset.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t0-strcat.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'0-strcat.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t100-atoi.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'100-atoi.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t1-isdigit.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (1-isdigit.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t1-memcpy.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'1-memcpy.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t1-strncat.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (1-strncat.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t2-strchr.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'2-strchr.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t2-strlen.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'2-strlen.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t2-strncpy.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (2-strncpy.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t3-islower.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (3-islower.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t3-puts.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 
+ %3-puts.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h+�t3-strcmp.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'3-strcmp.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t3-strspn.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'3-strspn.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t4-isalpha.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (4-isalpha.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t4-strpbrk.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 (4-strpbrk.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h.�t5-strstr.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'5-strstr.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t6-abs.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��		$6-abs.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h*�t9-strcpy.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'9-strcpy.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�tmain.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	 #main.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h)�t_putchar.o/ 0 0 0 644 1752 ` 
+ELF>X@@ ��UH��H�=��]�"At the end of the day, my goal was to be the best hacker" 
+ 	- Kevin MitnickGCC: (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0GNU�zRx�E�C R��	'_putchar.cmain_GLOBAL_OFFSET_TABLE__puts���������������� .symtab.strtab.shstrtab.rela.text.data.bss.rodata.comment.note.GNU-stack.note.gnu.property.rela.eh_frame @@�0&[,[1`L90�+B�R� j�8e@�	08 
+ 	h-�t
